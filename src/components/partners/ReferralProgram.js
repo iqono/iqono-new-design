@@ -1,6 +1,6 @@
 import React from 'react';
 import Button from '../Button';
-import FAQ1 from '../FAQ1';
+import FAQrev from '../FAQrev';
 
 function ReferralProgram() {
   return (
@@ -186,7 +186,7 @@ function ReferralProgram() {
             </div>
           </div>
           <div className='mt-40'>
-            <FAQ1 />
+            <FAQrev />
           </div>
           <div className="bg-[#423ADC0D] border border-[#423ADC40] bg-cover bg-no-repeat rounded-3xl flex flex-col md:flex-row items-end">
             <div className='md:w-1/2 flex flex-col items-start gap-10 px-[30px] py-[50px]'>
