@@ -47,14 +47,12 @@ function PaymentGateway() {
               A Powerful Payment Gateway for Global Commerce
             </p>
             <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-            iQono's Payouts Solutions let you send funds instantly across 200+ countries in local currencies — with full control and transparency.
-Automate workflows, schedule recurring payments, and manage high volumes effortlessly through a single dashboard.
+            iQono’s Payment Gateway is the core of your payment ecosystem — a single, powerful platform that connects every payment method, acquirer, and market. Built for high-risk industries, it delivers the speed, reliability, and flexibility your business demands.
 
             <br />
             <br />
 
-            Built-in compliance tools, real-time tracking, and intelligent routing ensure every payout is fast, secure, and frictionless.
-Whether you're handling affiliate commissions, supplier settlements, or mass disbursements — iQono powers it all.
+            From intelligent transaction routing to advanced analytics and real-time monitoring, iQono gives you full control over your payment flow. One integration, endless possibilities — designed to help you scale faster, smarter, and without limits.
             </p>
           </div>
         </div>
