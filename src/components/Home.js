@@ -52,7 +52,7 @@ const Home = () => {
               <img src='/payment1.png' />
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>01</p>
-                <p className='text-5xl leading-[1.1] text-white'>Payouts solutions</p>
+                <p className='text-5xl leading-[1.1] text-white'>Global Payouts</p>
                 <p className='text-lg leading-[1.1] text-white opacity-80'>Deliver fast, reliable, and scalable payouts to customers, partners, and suppliers across global markets.</p>
                 <Link to="/products/payouts">
                   <Button variant="outline">learn more</Button>
@@ -63,7 +63,7 @@ const Home = () => {
               <img src='/payment2.png' />
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
-                <p className='text-5xl leading-[1.1] text-white'>Card acquiring</p>
+                <p className='text-5xl leading-[1.1] text-white'>Card Acquiring</p>
                 <p className='text-lg leading-[1.1] text-white opacity-80'>Seamlessly accept credit and debit card payments worldwide with secure technology and high approval rates.</p>
                 <Link to="/products/card-acquiring">
                   <Button variant="outline">learn more</Button>
@@ -121,7 +121,7 @@ const Home = () => {
           <img src='/Photoroom2.png' alt='photoroom2' className='absolute w-[90%]' />
           <div className='w-full flex flex-col z-10'>
             <p className='uppercase text-xl leading-[1.1] text-[#111021] opacity-80' data-aos="fade-up" data-aos-delay="100">
-              Boosters
+              Power-ups for your business
             </p>
             <p className='uppercase text-5xl leading-[1.1] text-[#111021] mt-5' data-aos="fade-up" data-aos-delay="150">
               Upgrade Your Flow
@@ -169,7 +169,7 @@ const Home = () => {
                   </div>
                 </div>
                 <p className='text-2xl leading-[1.1] text-[#111021] mt-[60px]'>
-                  Smart Routing + payment orchestration
+                  Smart Routing Orchestration
                 </p>
                 <p className='text-base leading-[1.1] text-[#111021] mt-5 opacity-80'>
                   Optimize every transaction through intelligent routing, failover logic, and multi-provider orchestration built for performance.
