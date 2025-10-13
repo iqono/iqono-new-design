@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from '../Button';
 import PromoSection from '../PromoSection';
-import FAQ from '../FAQ';
+import FAQ12 from '../FAQ12';
 import { Link } from 'react-router-dom';
 
 function CardAcquiring() {
@@ -58,7 +58,7 @@ With iQono, you get access to a network of acquiring banks and processing partne
 </div>
 </div>
 <div className='hidden md:block' data-aos="fade-up" data-aos-delay="300">
-<FAQ pageType="product" />
+<FAQ12 pageType="product" />
 </div>
 </div>
 <div data-aos="fade-up" data-aos-delay="100">
