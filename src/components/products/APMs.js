@@ -47,14 +47,12 @@ function APMs() {
               Alternative Payment Methods Made Easy
             </p>
             <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-            iQono's Payouts Solutions let you send funds instantly across 200+ countries in local currencies — with full control and transparency.
-Automate workflows, schedule recurring payments, and manage high volumes effortlessly through a single dashboard.
+            Offer more ways to pay. iQono connects your business to the world’s most popular local and alternative payment methods — helping you boost conversion, reach new markets, and give customers the freedom to pay their way.
 
             <br />
             <br />
 
-            Built-in compliance tools, real-time tracking, and intelligent routing ensure every payout is fast, secure, and frictionless.
-Whether you're handling affiliate commissions, supplier settlements, or mass disbursements — iQono powers it all.
+            Built for global merchants and high-risk industries, iQono’s platform delivers seamless integration, intelligent routing, and optimized approval rates across markets. Expand effortlessly into new regions, increase customer trust, and keep your payments flowing — all through one powerful connection.
             </p>
           </div>
         </div>
