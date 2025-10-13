@@ -11,8 +11,8 @@ function CardAcquiring() {
         <div className='container mx-auto px-4'>
           <div className='flex flex-col md:flex-row items-center justify-between'>
             <div className='flex flex-col items-start gap-10' data-aos="fade-right" data-aos-delay="100">
-              <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
-              <p className='text-5xl leading-[1.1] text-white'>Card acquiring</p>
+              <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>01</p>
+              <p className='text-5xl leading-[1.1] text-white'>Card Acquiring</p>
               <p className='text-lg leading-[1.1] text-white opacity-80'>iQono is a next-generation payment platform built for high-risk payment</p>
               <div className="flex justify-center">
                 <Link
@@ -47,14 +47,12 @@ function CardAcquiring() {
               Card Acquiring Built for High-Risk and High Volume
             </p>
             <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-            iQono's Payouts Solutions let you send funds instantly across 200+ countries in local currencies — with full control and transparency.
-Automate workflows, schedule recurring payments, and manage high volumes effortlessly through a single dashboard.
+Power your business with iQono’s next-generation card acquiring — built for high-risk industries that demand reliability. Accept global card payments with ease, backed by advanced risk controls, seamless API integration, and fast, secure settlements. Scale confidently with a partner that understands high-risk payment performance.
             
             <br />
             <br />
 
-            Built-in compliance tools, real-time tracking, and intelligent routing ensure every payout is fast, secure, and frictionless.
-Whether you're handling affiliate commissions, supplier settlements, or mass disbursements — iQono powers it all.
+            With iQono, you get access to a network of acquiring banks and processing partners optimized for high approval rates and stable performance. Our intelligent routing and fraud prevention tools ensure every transaction is handled securely and efficiently — giving your business the freedom to operate globally without interruptions.
             </p>
           </div>
         </div>
