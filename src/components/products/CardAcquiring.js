@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from '../Button';
 import PromoSection from '../PromoSection';
-import FAQ from '../FAQ';
+import FAQ from '../FAQ11';
 import { Link } from 'react-router-dom';
 
 function CardAcquiring() {
