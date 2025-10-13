@@ -17,7 +17,6 @@ function PartnerWithUs() {
               </p>
               <div className='flex gap-[30px] flex-col items-start md:flex-row'>
                 <Button variant="primary">Get Started</Button>
-                <Button variant="outline">About partnership</Button>
               </div>
             </div>
           </div>
