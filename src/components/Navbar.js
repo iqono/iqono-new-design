@@ -50,17 +50,17 @@ const Navbar = () => {
       ]
     },
     {
+            name: 'Grow With Us',
+      dropdownItems: [
+        { name: 'Rev-Share Program', href: '/partners/referral' },
+        { name: 'Partnerships', href: '/partners/join' },
+      ]
+    },
+    {
       name: 'Inside iQono',
       dropdownItems: [
         { name: 'About us', href: '/company/about' },
         { name: 'Blog', href: '/company/blog' },
-      ]
-    },
-    {
-      name: 'Grow With Us',
-      dropdownItems: [
-        { name: 'Rev-Share Program', href: '/partners/referral' },
-        { name: 'Partnerships', href: '/partners/join' },
       ]
     },
   ];
