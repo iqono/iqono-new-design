@@ -12,7 +12,7 @@ function APMs() {
           <div className='flex flex-col md:flex-row items-center justify-between'>
             <div className='flex flex-col items-start gap-10' data-aos="fade-right" data-aos-delay="100">
               <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>03</p>
-              <p className='text-5xl leading-[1.1] text-white'>APMS</p>
+              <p className='text-5xl leading-[1.1] text-white'>Alternative Payment Methods</p>
               <p className='text-lg leading-[1.1] text-white opacity-80'>Give your customers the way they love to pay — anytime, anywhere.</p>
               <div className="flex justify-center">
                 <Link
