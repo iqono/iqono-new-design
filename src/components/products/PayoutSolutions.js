@@ -11,8 +11,8 @@ function PayoutSolutions() {
         <div className='container mx-auto px-4'>
           <div className='flex flex-col md:flex-row items-center justify-between'>
             <div className='flex flex-col items-start gap-10' data-aos="fade-right" data-aos-delay="100">
-              <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>01</p>
-              <p className='text-5xl leading-[1.1] text-white'>Payouts solutions</p>
+              <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
+              <p className='text-5xl leading-[1.1] text-white'>Global Payouts</p>
               <p className='text-lg leading-[1.1] text-white opacity-80'>iQono is a next-generation payment platform built for high-risk payment</p>
               <div className="flex justify-center">
                 <Link
