@@ -50,17 +50,6 @@ const Navbar = () => {
       ]
     },
     {
-      name: 'Boosters',
-      dropdownItems: [
-        { name: 'Fraud & Risk Management', href: '/boosters/fraud-risk' },
-        { name: 'Chargeback resolution', href: '/boosters/chargeback' },
-        { name: 'Smart Routing', href: '/boosters/smart-routing' },
-        { name: 'Global Expansion', href: '/boosters/global-expansion' },
-        { name: 'Real-Time Analytics', href: '/boosters/analytics' },
-        { name: '24/7 Support', href: '/boosters/support' },
-      ] 
-    },
-    {
       name: 'Company',
       dropdownItems: [
         { name: 'About us', href: '/company/about' },
