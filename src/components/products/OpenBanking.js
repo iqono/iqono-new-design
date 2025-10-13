@@ -47,14 +47,12 @@ function OpenBanking() {
               Open Banking for Smarter Payments
             </p>
             <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-            iQono's Payouts Solutions let you send funds instantly across 200+ countries in local currencies — with full control and transparency.
-Automate workflows, schedule recurring payments, and manage high volumes effortlessly through a single dashboard.
+            Step into the future of payments with iQono’s Open Banking solution. Enable direct, secure bank-to-bank transactions that cut out intermediaries, reduce costs, and deliver instant payment confirmations. Your customers enjoy a faster, frictionless checkout experience — and your business benefits from higher trust and lower chargebacks.
 
             <br />
             <br />
 
-            Built-in compliance tools, real-time tracking, and intelligent routing ensure every payout is fast, secure, and frictionless.
-Whether you're handling affiliate commissions, supplier settlements, or mass disbursements — iQono powers it all.
+            Built for performance and compliance, iQono connects you to leading banks across multiple regions through one seamless API. Whether you’re expanding across Europe or scaling globally, our Open Banking infrastructure gives you the control, transparency, and efficiency your business needs to move money smarter.
             </p>
           </div>
         </div>
