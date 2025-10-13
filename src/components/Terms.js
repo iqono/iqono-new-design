@@ -67,9 +67,9 @@ const Terms = () => {
               <section className="bg-slate-800/50 backdrop-blur-sm rounded-2xl p-8 border border-slate-700/50">
                 <h2 className="text-2xl font-semibold mb-4">4. Fees and Payments</h2>
                 <div className="space-y-4 text-gray-300">
-                  <p>4.1 Processing fees are charged according to your service agreement.</p>
-                  <p>4.2 Settlement times vary by payment method and region.</p>
-                  <p>4.3 Chargebacks may incur additional fees.</p>
+                  <p>4.1 We charge a fixed gateway fee for each transaction processed through our platform.</p>
+                  <p>4.2 The fee amount is clearly stated in your Service Agreement.</p>
+                  <p>4.3 There are no hidden, setup, or monthly fees — only the fixed fee per transaction applies.</p>
                 </div>
               </section>
 
