@@ -11,10 +11,10 @@ const Home = () => {
           <div className='flex justify-center md:justify-end' data-aos="fade-right" data-aos-delay="100">
             <div className='w-full z-10 max-w-full px-4 md:max-w-[384px] lg:max-w-[512px] xl:max-w-[640px] 2xl:max-w-[768px] md:pl-4'>
               <p className='uppercase text-white text-[52px] xl:text-[64px] leading-[1.1] mb-10'>
-                Accelerate Payments. Maximize Acceptance. Go Global.
+                ONBOARD ONCE. TRANSACT EVERYWHERE.
               </p>
               <p className='text-white text-lg leading-[1.2] mb-[60px] opacity-80'>
-                Global-ready. Start processing in under 48 hours.
+                Smarter payments. Greater reach. Limitless growth.
               </p>
               <div className='flex gap-[30px] flex-col md:flex-row'>
                 <Button variant="primary" className='w-full md:w-auto'>Get Started</Button>
