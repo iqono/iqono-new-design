@@ -12,7 +12,7 @@ const FAQ12 = ({ questions, pageType }) => {
   const defaultQuestions = {
     product: [
       { 
-        question: "What payment methods are supported?", 
+        question: "testetsttestWhat payment methods are supported?", 
         answer: "We support Visa, Mastercard, Maestro, and other major card brands, with additional alternative payment methods available on request." 
       },
       { 
