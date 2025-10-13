@@ -8,30 +8,79 @@ const FAQ = ({ questions, pageType }) => {
     setOpenIndex(openIndex === index ? null : index);
   };
 
-
+  // ✅ Add your real questions and answers here
   const defaultQuestions = {
     product: [
-      { question: "testWhat payment methods are supported?", answer: dummyAnswer },
-      { question: "How long does integration take?", answer: dummyAnswer },
-      { question: "What are the transaction fees?", answer: dummyAnswer },
-      { question: "Is there a setup fee?", answer: dummyAnswer },
-      { question: "Which countries do you support?", answer: dummyAnswer },
-      { question: "How secure is the platform?", answer: dummyAnswer },
-      { question: "Do you offer technical support?", answer: dummyAnswer },
-      { question: "Can I customize the checkout experience?", answer: dummyAnswer },
+      { 
+        question: "What payment methods are supported?", 
+        answer: "We support Visa, Mastercard, Maestro, and other major card brands, with additional alternative payment methods available on request." 
+      },
+      { 
+        question: "How long does integration take?", 
+        answer: "Integration typically takes 1–3 business days using our ready-made API and documentation. For more complex setups, it may take up to a week." 
+      },
+      { 
+        question: "What are the transaction fees?", 
+        answer: "Transaction fees depend on your business type, volume, and risk category. Contact our sales team for a custom pricing plan." 
+      },
+      { 
+        question: "Is there a setup fee?", 
+        answer: "We do not charge a setup fee for standard integrations. Custom or high-volume setups may include a one-time configuration cost." 
+      },
+      { 
+        question: "Which countries do you support?", 
+        answer: "We work with acquiring banks and partners in Europe, the UK, and other supported regions, enabling global card acceptance." 
+      },
+      { 
+        question: "How secure is the platform?", 
+        answer: "Our platform is fully PCI DSS compliant, with advanced fraud prevention tools, tokenization, and 3D Secure support." 
+      },
+      { 
+        question: "Do you offer technical support?", 
+        answer: "Yes, we provide 24/7 technical support through chat, email, and ticket system for all active merchants." 
+      },
+      { 
+        question: "Can I customize the checkout experience?", 
+        answer: "Yes, our API allows full customization of the checkout flow, including branding, payment methods, and UI." 
+      },
     ],
     booster: [
-      { question: "How does this feature improve conversion rates?", answer: dummyAnswer },
-      { question: "Is this included in all plans?", answer: dummyAnswer },
-      { question: "Can I use this feature with my existing setup?", answer: dummyAnswer },
-      { question: "How is performance measured?", answer: dummyAnswer },
-      { question: "What makes this better than competitors?", answer: dummyAnswer },
-      { question: "Do you provide implementation support?", answer: dummyAnswer },
-      { question: "How quickly can I see results?", answer: dummyAnswer },
-      { question: "Is there any additional cost?", answer: dummyAnswer },
+      { 
+        question: "How does this feature improve conversion rates?", 
+        answer: "Our booster tools analyze transaction data to route payments intelligently, reducing declines and increasing approval rates." 
+      },
+      { 
+        question: "Is this included in all plans?", 
+        answer: "Yes, the booster feature is included in all enterprise and high-volume plans at no additional cost." 
+      },
+      { 
+        question: "Can I use this feature with my existing setup?", 
+        answer: "Yes, our API integrates seamlessly with your existing system without requiring major code changes." 
+      },
+      { 
+        question: "How is performance measured?", 
+        answer: "We track key metrics like approval ratio, latency, and conversion lift through your merchant dashboard." 
+      },
+      { 
+        question: "What makes this better than competitors?", 
+        answer: "Our system combines smart routing, AI-based risk analysis, and tailored acquirer pairing for high-risk merchants." 
+      },
+      { 
+        question: "Do you provide implementation support?", 
+        answer: "Yes, our integration team will assist you during setup and performance testing." 
+      },
+      { 
+        question: "How quickly can I see results?", 
+        answer: "Most merchants notice improved transaction performance within the first week of activation." 
+      },
+      { 
+        question: "Is there any additional cost?", 
+        answer: "No, this feature is part of our standard offering and does not require any hidden or ongoing fees." 
+      },
     ]
   };
 
+  // Use passed `questions` or fallback based on `pageType`
   const faqQuestions = questions || defaultQuestions[pageType] || defaultQuestions.product;
 
   return (
@@ -55,17 +104,20 @@ const FAQ = ({ questions, pageType }) => {
                 <ChevronDownIcon className='size-4 text-[#1F1F1F] flex-shrink-0' />
               )}
             </div>
-            <div
-              className={`overflow-hidden transition-all duration-300`}
-              style={{
-                maxHeight: openIndex === index ? '500px' : '0',
-                opacity: openIndex === index ? 1 : 0
-              }}
-            >
-              <div className='mt-3 text-[#111021] opacity-80 pb-2'>
-                {item.answer}
+
+            {item.answer && (
+              <div
+                className={`overflow-hidden transition-all duration-300`}
+                style={{
+                  maxHeight: openIndex === index ? '500px' : '0',
+                  opacity: openIndex === index ? 1 : 0
+                }}
+              >
+                <div className='mt-3 text-[#111021] opacity-80 pb-2'>
+                  {item.answer}
+                </div>
               </div>
-            </div>
+            )}
           </div>
         ))}
       </div>
@@ -73,4 +125,4 @@ const FAQ = ({ questions, pageType }) => {
   );
 };
 
-export default FAQ12;
+export default FAQ;
