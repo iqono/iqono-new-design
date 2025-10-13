@@ -95,4 +95,4 @@ const FAQrev = ({ questions, pageType = 'product' }) => {
   );
 };
 
-export default FAQ1;
+export default FAQrev;
