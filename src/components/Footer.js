@@ -17,12 +17,12 @@ const Footer = () => {
             <Button variant='primary'>Get Started</Button>
           </div>
           <div className='flex flex-col gap-5'>
-            <p className='uppercase text-white text-base leading-[1.1]'>Products</p>
+            <p className='uppercase text-white text-base leading-[1.1]'>Solutions</p>
             <Link to="/products/card-acquiring" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              Card acquiring & native currencies
+              Card Acquiring
             </Link>
             <Link to="/products/payouts" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              Payouts solutions
+              Global Payouts
             </Link>
             <Link to="/products/apms" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
               APMs
@@ -34,30 +34,9 @@ const Footer = () => {
               Payment Gateway
             </Link>
           </div>
-          <div className='flex flex-col gap-5'>
-            <p className='uppercase text-white text-base leading-[1.1]'>Boosters</p>
-            <Link to="/boosters/fraud-risk" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              Fraud & Risk Managment
-            </Link>
-            <Link to="/boosters/chargeback" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              Chargeback resolution
-            </Link>
-            <Link to="/boosters/smart-routing" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              Smart Routing
-            </Link>
-            <Link to="/boosters/global-expansion" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              Global Expansion
-            </Link>
-            <Link to="/boosters/analytics" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              Real-Time Analytics
-            </Link>
-            <Link to="/boosters/support" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-              24/7 Support
-            </Link>
-          </div>
           <div className='flex flex-col justify-between'>
             <div className='flex flex-col gap-5'>
-              <p className='uppercase text-white text-base leading-[1.1]'>Company</p>
+              <p className='uppercase text-white text-base leading-[1.1]'>Inside iQono</p>
               <Link to="/company/about" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
                 About us
               </Link>
