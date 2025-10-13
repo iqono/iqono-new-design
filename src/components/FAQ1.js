@@ -15,7 +15,7 @@ const FAQ1 = ({ questions, pageType }) => {
       { question: "Who can join the referral programme?", answer: dummyAnswer },
       { question: "How is my commission calculated?", answer: dummyAnswer },
       { question: "How do I refer a business?", answer: dummyAnswer },
-      { question: "Do I need to be a Finera client?", answer: dummyAnswer },
+      { question: "Do I need to be a client?", answer: dummyAnswer },
       { question: "What is the minimum payout amount?", answer: dummyAnswer },
       { question: "How do I refer a business?", answer: dummyAnswer },
       { question: "When do I get paid?", answer: dummyAnswer },
