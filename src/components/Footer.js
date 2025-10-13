@@ -12,7 +12,7 @@ return (
 <img src="/logo.svg" alt="IQONO" />
 </Link>
 <p className='text-[rgba(255,255,255,0.6)] text-lg leading-[1.1]'>
-Protect every transaction with advanced risk controls and 24/7 monitoring.
+ONBOARD ONCE. TRANSACT EVERYWHERE.
 </p>
 <Button variant='primary'>Get Started</Button>
 </div>
