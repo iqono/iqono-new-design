@@ -10,10 +10,10 @@ function PartnerWithUs() {
           <div className='flex justify-center md:justify-end' data-aos="fade-right" data-aos-delay="100">
             <div className='w-full z-10 max-w-full px-4 md:max-w-[384px] lg:max-w-[512px] xl:max-w-[640px] 2xl:max-w-[768px] md:pl-4'>
               <p className='uppercase text-white text-[52px] xl:text-[64px] leading-[1.1] mb-10'>
-                Where Ambitious Partners Scale
+                Partnering with Financial Leaders
               </p>
               <p className='text-white text-lg leading-[1.2] mb-[60px] opacity-80'>
-                Partner with us and unlock access to cutting-edge payment solutions, high commissions, and global growth opportunities — all in one platform.
+                Collaborate with iQono to enhance your processing capabilities, access new markets, and grow your transaction volumes.
               </p>
               <div className='flex gap-[30px] flex-col items-start md:flex-row'>
                 <Button variant="primary">Get Started</Button>
@@ -35,12 +35,11 @@ function PartnerWithUs() {
               How to become partners
             </p>
             <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-            Becoming an iQono referral partner is simple, rewarding, and built for scale. Just sign up to access your personal referral link and start sharing it with businesses that could benefit from smarter, more secure payment infrastructure. 
-
+iQono teams up with payment service providers, acquirers and banks to power global payments for high-risk and emerging industries. Join our network, fuse your infrastructure with our high-performance platform, and unlock new markets, volumes and revenue streams.
             <br />
             <br />
 
-            Whether it’s a startup, platform, or high-risk merchant — every successful referral earns you real rewards. You’ll get full visibility into clicks, conversions, and payouts through your dashboard, with no limits on how much you can earn.
+            Together, we create payment pathways that connect businesses across borders. With iQono’s technology and your network strength, we enable faster settlements, wider coverage, and more efficient payment flows for merchants worldwide.
             </p>
           </div>
         </div>
