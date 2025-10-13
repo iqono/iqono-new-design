@@ -13,7 +13,7 @@ function OpenBanking() {
             <div className='flex flex-col items-start gap-10' data-aos="fade-right" data-aos-delay="100">
               <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>04</p>
               <p className='text-5xl leading-[1.1] text-white'>Open Banking</p>
-              <p className='text-lg leading-[1.1] text-white opacity-80'>iQono is a next-generation payment platform built for high-risk payment</p>
+              <p className='text-lg leading-[1.1] text-white opacity-80'>Connect directly to banks for instant, trusted payments.</p>
               <div className="flex justify-center">
                 <Link
                   to="/get-started"
