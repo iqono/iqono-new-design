@@ -10,10 +10,10 @@ function ReferralProgram() {
           <div className='flex justify-center md:justify-end'>
             <div className='w-full z-10 max-w-full px-4 md:max-w-[384px] lg:max-w-[512px] xl:max-w-[640px] 2xl:max-w-[768px] md:pl-4'>
               <p className='uppercase text-white text-[52px] xl:text-[64px] leading-[1.1] mb-10'>
-                Earn with Referrals
+                Your Network. Your Revenue.
               </p>
               <p className='text-white text-lg leading-[1.2] mb-[60px] opacity-80'>
-                Invite businesses to join and get rewarded for every transaction they make — simple, fast, and scalable.
+                Turn your network into profit with iQono’s seamless revenue share program.
               </p>
               <div className='flex gap-[30px] flex-col items-start md:flex-row'>
                 <Button variant="primary">Get Started</Button>
@@ -32,15 +32,10 @@ function ReferralProgram() {
           </div>
           <div className='w-full z-10 max-w-full px-4 md:max-w-[384px] lg:max-w-[512px] xl:max-w-[640px] 2xl:max-w-[768px] md:pl-4'>
             <p className='text-[#111021] text-5xl leading-[1.1] mb-10'>
-              How to become referral
+              Start Earning with iQono
             </p>
             <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-            Becoming an iQono referral partner is simple, rewarding, and built for scale. Just sign up to access your personal referral link and start sharing it with businesses that could benefit from smarter, more secure payment infrastructure. 
-
-            <br />
-            <br />
-
-            Whether it’s a startup, platform, or high-risk merchant — every successful referral earns you real rewards. You’ll get full visibility into clicks, conversions, and payouts through your dashboard, with no limits on how much you can earn.
+              Turn your network into opportunity with iQono’s Revenue Share Program. Connect businesses to our next-generation payment solutions built for performance and reliability — and earn recurring commissions on every transaction they process. Simple, transparent, and built to scale.
             </p>
           </div>
         </div>
@@ -66,7 +61,7 @@ function ReferralProgram() {
                         Join iQono
                       </p>
                       <p className='text-[#111021] text-base leading-[1.1] opacity-60'>
-                        KYB approval in 24 hours
+                        Connect with our partnership team and discover how you can earn by introducing merchants to iQono’s global payment solutions.
                       </p>
                     </div>
                   </div>
@@ -77,10 +72,10 @@ function ReferralProgram() {
                     <img className='w-[30px] h-[30px]' src='/union1.png' />
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-[#111021] text-2xl leading-[1.1]'>
-                        Connect Companies
+                        Introduce Businesses
                       </p>
                       <p className='text-[#111021] text-base leading-[1.1] opacity-60'>
-                        Share your unique link with businesses in need of smarter payment tools.
+                        Refer businesses that need smarter, more reliable payment solutions — our team will engage directly and handle everything from there.
                       </p>
                     </div>
                   </div>
@@ -91,10 +86,10 @@ function ReferralProgram() {
                     <img className='w-[30px] h-[25px]' src='/union5.png' />
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-[#111021] text-2xl leading-[1.1]'>
-                        Unlock Earnings
+                        Earn Passive Income
                       </p>
                       <p className='text-[#111021] text-base leading-[1.1] opacity-60'>
-                        Earn commissions on every transaction your network generates.
+                        Receive ongoing commissions from every transaction your introduced business process through iQono. Consistent, transparent, and built for growth.
                       </p>
                     </div>
                   </div>
