@@ -56,9 +56,9 @@ Power your business with iQono’s next-generation card acquiring — built for 
             </p>
           </div>
         </div>
-        <div className='hidden md:block' data-aos="fade-up" data-aos-delay="300">
-          <FAQ pageType="product" />
-        </div>
+          <div className='mt-40'>
+            <FAQ11 />
+          </div>
       </div>
       <div data-aos="fade-up" data-aos-delay="100">
         <PromoSection />
