@@ -21,7 +21,7 @@ const FAQcards = ({ questions, pageType }) => {
         answer: "We support major global card schemes like Visa and Mastercard, and region-specific cards where available." 
       },
       { 
-        question: "Do you support local currencies?", 
+        question: "Do you support true local currencies?", 
         answer: "Yes — iQono supports a wide range of local and exotic currencies, allowing your business to process payments in your customers’ preferred currency." 
       },
       { 
