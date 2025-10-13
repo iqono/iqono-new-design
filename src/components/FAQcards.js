@@ -29,6 +29,10 @@ const FAQcards = ({ questions, pageType }) => {
         answer: "You can integrate easily through our secure API or hosted payment page." 
       },
       { 
+        question: "Can iQono help optimize approval rates across acquirers?", 
+        answer: "Yes — our smart routing system automatically directs each transaction to the most suitable acquiring partner, improving approval ratios and minimizing declines across regions and card types." 
+      },
+      { 
         question: "Which countries do you support?", 
         answer: "We work with acquiring banks and partners in Europe, the UK, and other supported regions, enabling global card acceptance." 
       },
