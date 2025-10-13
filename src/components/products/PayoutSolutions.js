@@ -47,14 +47,12 @@ function PayoutSolutions() {
               Global Payouts. Simplified, Secured, Scalable.
             </p>
             <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-            iQono's Payouts Solutions let you send funds instantly across 200+ countries in local currencies — with full control and transparency.
-            Automate workflows, schedule recurring payments, and manage high volumes effortlessly through a single dashboard.
+            Empower your business with seamless cross-border payouts through iQono. Whether it’s OCT (Original Credit Transfer) for instant card withdrawals or SEPA for fast and reliable bank transfers across Europe — we make global disbursements effortless, secure, and scalable.
 
             <br />
             <br />
 
-            Built-in compliance tools, real-time tracking, and intelligent routing ensure every payout is fast, secure, and frictionless.
-            Whether you're handling affiliate commissions, supplier settlements, or mass disbursements — iQono powers it all.
+            Our platform unifies payout methods under one simple API, giving you full control, real-time visibility, and lightning-fast settlement times. From affiliate commissions to customer withdrawals, iQono ensures every payment arrives on time — no delays, no borders, no limits.
             </p>
           </div>
         </div>
