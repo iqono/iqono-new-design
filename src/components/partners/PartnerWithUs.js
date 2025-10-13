@@ -1,6 +1,6 @@
 import React from 'react';
 import Button from '../Button';
-import FAQ1 from '../FAQ1';
+import FAQpartners from '../FAQpartners';
 
 function PartnerWithUs() {
   return (
@@ -190,7 +190,7 @@ function PartnerWithUs() {
             </div>
           </div>
           <div className='mt-40' data-aos="fade-up" data-aos-delay="100">
-            <FAQ1 />
+            <FAQpartners />
           </div>
           <div className="bg-[#423ADC0D] border border-[#423ADC40] bg-cover bg-no-repeat rounded-3xl flex flex-col md:flex-row items-end" data-aos="fade-up" data-aos-delay="200">
             <div className='md:w-1/2 flex flex-col items-start gap-10 px-[30px] py-[50px]'>
