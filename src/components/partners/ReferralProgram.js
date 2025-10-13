@@ -111,8 +111,8 @@ function ReferralProgram() {
                     <div className='w-4 h-4 bg-[#423ADC]' />
                   </div>
                 </div>
-                <p className='text-[#111021] text-2xl mt-[60px]'>Passive Income Stream</p>
-                <p className='text-[#111021] text-lg opacity-80 mt-5'>Earn ongoing rewards every time your referral transacts</p>
+                <p className='text-[#111021] text-2xl mt-[60px]'>Lifetime Commissions</p>
+                <p className='text-[#111021] text-lg opacity-80 mt-5'>Earn percentage of the merchant’s processing volume for life, providing you with ongoing, predictable income.</p>
               </div>
               <div className='flex flex-col bg-[rgba(255,255,255,0.8)] rounded-2xl p-6'>
                 <div className='w-8 h-8 flex'>
@@ -123,8 +123,8 @@ function ReferralProgram() {
                     <div className='w-4 h-4 bg-[#423ADC]' />
                   </div>
                 </div>
-                <p className='text-[#111021] text-2xl mt-[60px]'>Transparent Tracking</p>
-                <p className='text-[#111021] text-lg opacity-80 mt-5'>Get full visibility into clicks, signups, and payouts in real time.</p>
+                <p className='text-[#111021] text-2xl mt-[60px]'>Fast Payouts</p>
+                <p className='text-[#111021] text-lg opacity-80 mt-5'>Commissions paid weekly, so you don’t have to wait to enjoy your earnings.</p>
               </div>
               <div className='flex flex-col bg-[rgba(255,255,255,0.8)] rounded-2xl p-6'>
                 <div className='w-8 h-8 flex'>
@@ -135,8 +135,8 @@ function ReferralProgram() {
                     <div className='w-4 h-4 bg-[#423ADC]' />
                   </div>
                 </div>
-                <p className='text-[#111021] text-2xl mt-[60px]'>Fast & Flexible Payouts</p>
-                <p className='text-[#111021] text-lg opacity-80 mt-5'>Receive your earnings instantly — no limits, no delays.</p>
+                <p className='text-[#111021] text-2xl mt-[60px]'>Hands-Off Process</p>
+                <p className='text-[#111021] text-lg opacity-80 mt-5'>You make the introduction, and we handle the sales, onboarding, and ongoing support.</p>
               </div>
             </div>
           </div>
@@ -151,37 +151,37 @@ function ReferralProgram() {
                 <div className='w-[60px] h-[60px] flex items-center justify-center bg-[#423ADC0D] border border-[#423ADC40] rounded-xl'>
                   <img src='/refer1.png' className='w-6' />
                 </div>
-                <p className='text-white text-2xl'>Geolocation-based Routing</p>
+                <p className='text-white text-2xl'>Scalable Income</p>
               </div>
               <div className='h-[250px] rounded-2xl bg-[#423ADC0D] border border-[#423ADC0D] p-6 flex flex-col justify-between'>
                 <div className='w-[60px] h-[60px] flex items-center justify-center bg-[#423ADC0D] border border-[#423ADC40] rounded-xl'>
                   <img src='/refer2.png' className='w-6' />
                 </div>
-                <p className='text-white text-2xl'>Cascading with Failover Logic</p>
+                <p className='text-white text-2xl'>Zero Costs</p>
               </div>
               <div className='h-[250px] rounded-2xl bg-[#423ADC0D] border border-[#423ADC0D] p-6 flex flex-col justify-between'>
                 <div className='w-[60px] h-[60px] flex items-center justify-center bg-[#423ADC0D] border border-[#423ADC40] rounded-xl'>
                   <img src='/refer3.png' className='w-6' />
                 </div>
-                <p className='text-white text-2xl'>Load Balancing Across Acquirers</p>
+                <p className='text-white text-2xl'>Global Reach</p>
               </div>
               <div className='h-[250px] rounded-2xl bg-[#423ADC0D] border border-[#423ADC0D] p-6 flex flex-col justify-between'>
                 <div className='w-[60px] h-[60px] flex items-center justify-center bg-[#423ADC0D] border border-[#423ADC40] rounded-xl'>
                   <img src='/refer4.png' className='w-6' />
                 </div>
-                <p className='text-white text-2xl'>Remember Me Tokenization</p>
+                <p className='text-white text-2xl'>Strong Partner Reputation</p>
               </div>
               <div className='h-[250px] rounded-2xl bg-[#423ADC0D] border border-[#423ADC0D] p-6 flex flex-col justify-between'>
                 <div className='w-[60px] h-[60px] flex items-center justify-center bg-[#423ADC0D] border border-[#423ADC40] rounded-xl'>
                   <img src='/refer5.png' className='w-6' />
                 </div>
-                <p className='text-white text-2xl'>Advanced Fraud Detection Models</p>
+                <p className='text-white text-2xl'>Transparent Reporting</p>
               </div>
               <div className='h-[250px] rounded-2xl bg-[#423ADC0D] border border-[#423ADC0D] p-6 flex flex-col justify-between'>
                 <div className='w-[60px] h-[60px] flex items-center justify-center bg-[#423ADC0D] border border-[#423ADC40] rounded-xl'>
                   <img src='/refer6.png' className='w-6' />
                 </div>
-                <p className='text-white text-2xl'>Real-time Approval Rate Monitoring</p>
+                <p className='text-white text-2xl'>Mutually Beneficial Partnershiphips</p>
               </div>
             </div>
           </div>
