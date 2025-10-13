@@ -40,27 +40,27 @@ const Navbar = () => {
 
   const navItems = [
     {
-      name: 'Products',
+      name: 'Solutions',
       dropdownItems: [
-        { name: 'Payouts solutions', href: '/products/payouts' },
-        { name: 'Card acquiring', href: '/products/card-acquiring' },
+        { name: 'Card Acquiring', href: '/products/card-acquiring' },
+        { name: 'Global Payouts', href: '/products/payouts' },
         { name: 'APMs', href: '/products/apms' },
         { name: 'Open Banking', href: '/products/open-banking' },
         { name: 'Payment Gateway', href: '/products/payment-gateway' },
       ]
     },
     {
-      name: 'Company',
+      name: 'Inside iQono',
       dropdownItems: [
         { name: 'About us', href: '/company/about' },
         { name: 'Blog', href: '/company/blog' },
       ]
     },
     {
-      name: 'Partners',
+      name: 'Grow With Us',
       dropdownItems: [
-        { name: 'Referral Program', href: '/partners/referral' },
-        { name: 'Partner With Us', href: '/partners/join' },
+        { name: 'Rev-Share Program', href: '/partners/referral' },
+        { name: 'Partnerships', href: '/partners/join' },
       ]
     },
   ];
