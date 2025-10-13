@@ -34,6 +34,15 @@ const Footer = () => {
               Payment Gateway
             </Link>
           </div>
+              <div className='flex flex-col gap-5'>
+            <p className='uppercase text-white text-base leading-[1.1]'>Grow With Us</p>
+            <Link to="/partners/referral" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
+              Rev-Share Program
+            </Link>
+            <Link to="/partners/join" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
+              Partnerships
+            </Link>
+          </div>
           <div className='flex flex-col justify-between'>
             <div className='flex flex-col gap-5'>
               <p className='uppercase text-white text-base leading-[1.1]'>Inside iQono</p>
