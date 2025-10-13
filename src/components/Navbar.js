@@ -44,7 +44,7 @@ const Navbar = () => {
       dropdownItems: [
         { name: 'Card Acquiring', href: '/products/card-acquiring' },
         { name: 'Global Payouts', href: '/products/payouts' },
-        { name: 'APMs', href: '/products/apms' },
+        { name: 'Alternative Payment Methods', href: '/products/apms' },
         { name: 'Open Banking', href: '/products/open-banking' },
         { name: 'Payment Gateway', href: '/products/payment-gateway' },
       ]
