@@ -48,7 +48,7 @@ Get Started
 Card Acquiring Built for High-Risk and High Volume
 </p>
 <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-Power your business with iQono’s next-generation card acquiring — built for high-risk industries that demand reliability. Accept global card payments with ease, backed by advanced risk controls, seamless API integration, and fast, secure settlements. Scale confidently with a partner that understands high-risk payment performance.
+P1ower your business with iQono’s next-generation card acquiring — built for high-risk industries that demand reliability. Accept global card payments with ease, backed by advanced risk controls, seamless API integration, and fast, secure settlements. Scale confidently with a partner that understands high-risk payment performance.
 
 <br />
 <br />
