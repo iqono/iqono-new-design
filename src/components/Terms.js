@@ -97,19 +97,6 @@ const Terms = () => {
                   <p>7.2 We may suspend services for violations of these terms.</p>
                 </div>
               </section>
-
-              <section className="bg-slate-800/50 backdrop-blur-sm rounded-2xl p-8 border border-slate-700/50">
-                <h2 className="text-2xl font-semibold mb-4">8. Contact Information</h2>
-                <p className="text-gray-300">
-                  For any inquiry:
-                  <br />
-                  Email: sales@iqono.com
-                  <br />
-                  Phone: +357 99168745
-                  <br />
-                  Address: Dimostheni Severi & Katsoni, 2, 1082, Nicosia, Cyprus
-                </p>
-              </section>
             </div>
           </div>
         </div>
