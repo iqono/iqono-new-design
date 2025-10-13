@@ -51,7 +51,7 @@ const Home = () => {
                 <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
               <img src='/payment2.png' />
               <div className='flex flex-col items-start gap-10 w-5/6'>
-                <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
+                <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>01</p>
                 <p className='text-5xl leading-[1.1] text-white'>Card Acquiring</p>
                 <p className='text-lg leading-[1.1] text-white opacity-80'>Seamlessly accept credit and debit card payments worldwide with secure technology and high approval rates.</p>
                 <Link to="/products/card-acquiring">
@@ -62,7 +62,7 @@ const Home = () => {
             <div className="p-4 md:h-[400px] bg-[url('/public/bg-1.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="100">
               <img src='/payment1.png' />
               <div className='flex flex-col items-start gap-10 w-5/6'>
-                <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>01</p>
+                <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
                 <p className='text-5xl leading-[1.1] text-white'>Global Payouts</p>
                 <p className='text-lg leading-[1.1] text-white opacity-80'>Deliver fast, reliable, and scalable payouts to customers, partners, and suppliers across global markets.</p>
                 <Link to="/products/payouts">
