@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { ChevronDownIcon, ChevronUpIcon } from '@heroicons/react/24/solid';
 
-const FAQ1 = ({ questions, pageType }) => {
+const FAQ11 = ({ questions, pageType }) => {
   const [openIndex, setOpenIndex] = useState(null);
 
   const toggleQuestion = (index) => {
