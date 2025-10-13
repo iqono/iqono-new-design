@@ -17,7 +17,6 @@ function ReferralProgram() {
               </p>
               <div className='flex gap-[30px] flex-col items-start md:flex-row'>
                 <Button variant="primary">Get Started</Button>
-                <Button variant="outline">About Referral</Button>
               </div>
             </div>
           </div>
