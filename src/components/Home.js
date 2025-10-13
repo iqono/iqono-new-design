@@ -48,6 +48,17 @@ const Home = () => {
             </div>
           </div>
           <div className='mt-20 flex flex-col gap-10'>
+                <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
+              <img src='/payment2.png' />
+              <div className='flex flex-col items-start gap-10 w-5/6'>
+                <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
+                <p className='text-5xl leading-[1.1] text-white'>Card Acquiring</p>
+                <p className='text-lg leading-[1.1] text-white opacity-80'>Seamlessly accept credit and debit card payments worldwide with secure technology and high approval rates.</p>
+                <Link to="/products/card-acquiring">
+                  <Button variant="outline">learn more</Button>
+                </Link>
+              </div>
+            </div>
             <div className="p-4 md:h-[400px] bg-[url('/public/bg-1.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="100">
               <img src='/payment1.png' />
               <div className='flex flex-col items-start gap-10 w-5/6'>
@@ -60,24 +71,13 @@ const Home = () => {
               </div>
             </div>
             <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
-              <img src='/payment2.png' />
-              <div className='flex flex-col items-start gap-10 w-5/6'>
-                <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
-                <p className='text-5xl leading-[1.1] text-white'>Card Acquiring</p>
-                <p className='text-lg leading-[1.1] text-white opacity-80'>Seamlessly accept credit and debit card payments worldwide with secure technology and high approval rates.</p>
-                <Link to="/products/card-acquiring">
-                  <Button variant="outline">learn more</Button>
-                </Link>
-              </div>
-            </div>
-            <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
               <div className='relative'>
                 <img src='/apms/1.png' className='' />
                 <img src='/apms/2.png' className='absolute w-[50%] top-[32%] left-[15%]' />
               </div>
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>03</p>
-                <p className='text-5xl leading-[1.1] text-white'>APMs</p>
+                <p className='text-5xl leading-[1.1] text-white'>Alternative Payment Methods</p>
                 <p className='text-lg leading-[1.1] text-white opacity-80'>Expand your reach by offering trusted local alternative payment methods tailored to each market you operate in.</p>
                 <Link to="/products/apms">
                   <Button variant="outline">learn more</Button>
