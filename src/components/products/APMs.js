@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from '../Button';
 import PromoSection from '../PromoSection';
-import FAQ from '../FAQ';
+import FAQapms from '../FAQapms';
 import { Link } from 'react-router-dom';
 
 function APMs() {
@@ -57,7 +57,7 @@ function APMs() {
           </div>
         </div>
         <div className='hidden md:block' data-aos="fade-up" data-aos-delay="300">
-          <FAQ pageType="product" />
+          <FAQapms pageType="product" />
         </div>
       </div>
       <div data-aos="fade-up" data-aos-delay="100">
