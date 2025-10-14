@@ -13,7 +13,6 @@ return (
 <div className='flex flex-col items-start gap-10' data-aos="fade-right" data-aos-delay="100">
 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>01</p>
 <p className='text-5xl leading-[1.1] text-white'>Card Acquiring</p>
-              <p className='text-lg leading-[1.1] text-white opacity-80'>iQono is a next-generation payment platform built for high-risk payment</p>
               <p className='text-lg leading-[1.1] text-white opacity-80'>Power every transaction with seamless, global card acceptance.</p>
 <div className="flex justify-center">
 <Link
@@ -48,7 +47,7 @@ Get Started
 Card Acquiring Built for High-Risk and High Volume
 </p>
 <p className='text-[#111021] text-lg leading-[1.2] mb-[60px] opacity-80'>
-P1ower your business with iQono’s next-generation card acquiring — built for high-risk industries that demand reliability. Accept global card payments with ease, backed by advanced risk controls, seamless API integration, and fast, secure settlements. Scale confidently with a partner that understands high-risk payment performance.
+Power your business with iQono’s next-generation card acquiring — built for high-risk industries that demand reliability. Accept global card payments with ease, backed by advanced risk controls, seamless API integration, and fast, secure settlements. Scale confidently with a partner that understands high-risk payment performance.
 
 <br />
 <br />
