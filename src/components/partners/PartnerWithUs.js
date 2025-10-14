@@ -128,7 +128,7 @@ function PartnerWithUs() {
                   </div>
                 </div>
                 <p className='text-[#111021] text-2xl mt-[60px]'>Grow Revenue</p>
-                <p className='text-[#111021] text-lg opacity-80 mt-5'>Increase processing volumes and profitability through shared payment flows, optimized routing, and performance-driven collaboration..</p>
+                <p className='text-[#111021] text-lg opacity-80 mt-5'>Increase processing volumes and profitability through shared payment flows, optimized routing, and performance-driven collaboration.</p>
               </div>
               <div className='flex flex-col bg-[rgba(255,255,255,0.8)] rounded-2xl p-6'>
                 <div className='w-8 h-8 flex'>
