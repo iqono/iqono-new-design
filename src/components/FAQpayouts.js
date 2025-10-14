@@ -29,6 +29,10 @@ const FAQpayouts = ({ questions, pageType }) => {
         answer: "Yes, iQono supports multi-currency payouts to accommodate your global operations." 
       },
       { 
+                question: "Does iQono support payout APIs?", 
+        answer: "Yes — businesses can integrate via our Payout API for automated processing, bulk transfers, and seamless system-to-system connectivity." 
+      },
+      { 
         question: "What happens if a payout fails?", 
         answer: "We’ll notify you immediately and help you resolve the issue or retry the payment." 
       },
