@@ -29,6 +29,10 @@ const FAQpg = ({ questions, pageType }) => {
         answer: "Yes, our scalable infrastructure allows you to activate new markets and payment methods as you grow." 
       },
       { 
+                question: "Can iQono integrate with my existing payment infrastructure?", 
+        answer: "Yes — our gateway can work alongside your current setup through flexible API integration, adding more methods, acquirers, and routing options without disruption." 
+      },
+      { 
         question: "Does iQono provide reporting and analytics?", 
         answer: "Yes — you’ll get advanced reporting tools, transaction insights, and performance metrics to help optimize your payment flow." 
       },
