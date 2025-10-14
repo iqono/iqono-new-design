@@ -57,7 +57,7 @@ With iQono, you get access to a network of acquiring banks and processing partne
 </p>
 </div>
 </div>
-<div className='hidden md:block' data-aos="fade-up" data-aos-delay="300">
+          <div className='mt-40'>
 <FAQcards pageType="product" />
 </div>
 </div>
