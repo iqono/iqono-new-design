@@ -10,7 +10,8 @@ function ReferralProgram() {
           <div className='flex justify-center md:justify-end'>
             <div className='w-full z-10 max-w-full px-4 md:max-w-[384px] lg:max-w-[512px] xl:max-w-[640px] 2xl:max-w-[768px] md:pl-4'>
               <p className='uppercase text-white text-[52px] xl:text-[64px] leading-[1.1] mb-10'>
-                Your Network. </br> Your Revenue.
+                Your Network. <br />
+                Your Revenue.
               </p>
               <p className='text-white text-lg leading-[1.2] mb-[60px] opacity-80'>
                 Turn your network into profit with iQono’s seamless revenue share program.
