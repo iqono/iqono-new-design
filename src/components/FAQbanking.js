@@ -29,6 +29,10 @@ const FAQbanking = ({ questions, pageType }) => {
         answer: "Instant bank transfers rely on existing banking networks, while Open Banking uses regulated PSD2 APIs for secure, real-time payments and account verification." 
       },
       { 
+                question: "Do customers need to leave my website to complete an Open Banking payment?", 
+        answer: "No — with iQono’s integrated Open Banking solution, customers can complete payments securely within your checkout flow. They simply select their bank, verify through their banking app, and authorize the payment in seconds — no redirects, no friction." 
+      },
+      { 
         question: "Can Open Banking replace card payments completely?", 
         answer: "It can complement or, in some cases, replace cards — especially in regions where customers prefer direct bank payments for speed and cost efficiency." 
       },
