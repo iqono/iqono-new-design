@@ -39,7 +39,7 @@ const FAQcards = ({ questions, pageType }) => {
     ],
     booster: [
       { 
-        question: "How does this feature improve conversion rates?", 
+        question: "How does this feature improve conversion ratesr?", 
         answer: "Our booster tools analyze transaction data to route payments intelligently, reducing declines and increasing approval rates." 
       },
       { 
