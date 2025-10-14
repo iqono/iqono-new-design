@@ -8,10 +8,10 @@ function PromoSection() {
         <div className='flex justify-between flex-col md:flex-row'>
           <div className='max-w-[870px] w-full md:w-1/2'>
             <p className='uppercase text-5xl leading-[1.1] text-white'>
-              How Get started?
+              Your Journey with iQono
             </p>
             <p className='text-base leading-[1.1] text-white mt-10 opacity-80'>
-              From Sign-Up to Scaling — Seamlessly.
+              Building Success — Step by Step
             </p>
             <img src='/get-started.png' className='w-[80%]' />
           </div>
