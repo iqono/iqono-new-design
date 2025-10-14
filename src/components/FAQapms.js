@@ -29,6 +29,10 @@ const FAQapms = ({ questions, pageType }) => {
         answer: "Yes. Local payment methods often achieve higher approval rates because they use trusted regional payment networks and familiar user flows." 
       },
       { 
+        question: "Can I combine APMs with card and bank payment options in one checkout?", 
+        answer: "Yes — iQono’s platform allows you to offer cards, APMs, and bank payments within a single, unified checkout. This gives customers the flexibility to choose their preferred payment method, improving conversion and overall user experience." 
+      },
+      { 
         question: "Are APMs available for high-risk industries?", 
         answer: "Yes, iQono offers access to selected APMs suited for high-risk business models." 
       },
