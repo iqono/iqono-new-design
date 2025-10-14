@@ -25,7 +25,7 @@ Card Acquiring
 Global Payouts
 </Link>
 <Link to="/products/apms" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-APMs
+Alternative Payments
 </Link>
 <Link to="/products/open-banking" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
 Open Banking
