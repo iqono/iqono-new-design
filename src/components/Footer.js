@@ -47,7 +47,7 @@ Payment Gateway
 <div className='flex flex-col gap-5'>
 <p className='uppercase text-white text-base leading-[1.1]'>Inside iQono</p>
 <Link to="/company/about" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
-About us
+About Us
 </Link>
 <Link to="/company/blog" className='flex flex-col text-[rgba(255,255,255,0.8)] text-sm leading-[1.1]'>
 Blog
