@@ -47,10 +47,10 @@ function PartnerWithUs() {
           <div className='flex flex-col md:flex-row justify-between'>
             <div className='max-w-[870px] w-full md:w-1/2' data-aos="fade-right" data-aos-delay="100">
               <p className='uppercase text-5xl leading-[1.1] text-[#111021]'>
-                How Get started?
+                Your Journey with iQono
               </p>
               <p className='text-base leading-[1.1] text-[#111021] mt-10 opacity-80'>
-                From Sign-Up to Scaling — Seamlessly.
+                Building Success — Step by Step.
               </p>
               <img src='/partner1.png' className='w-[80%]' />
             </div>
