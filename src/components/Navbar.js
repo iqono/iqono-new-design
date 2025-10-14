@@ -59,7 +59,7 @@ const Navbar = () => {
     {
       name: 'Inside iQono',
       dropdownItems: [
-        { name: 'About us', href: '/company/about' },
+        { name: 'About Us', href: '/company/about' },
         { name: 'Blog', href: '/company/blog' },
       ]
     },
