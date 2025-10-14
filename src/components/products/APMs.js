@@ -56,7 +56,7 @@ function APMs() {
             </p>
           </div>
         </div>
-        <div className='hidden md:block' data-aos="fade-up" data-aos-delay="300">
+          <div className='mt-40'>
           <FAQapms pageType="product" />
         </div>
       </div>
