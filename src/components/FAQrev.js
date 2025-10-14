@@ -28,6 +28,10 @@ const FAQrev = ({ questions, pageType = 'product' }) => {
         answer: "Commissions are paid weekly, based on the total volume processed by your introduced merchants. Full transparency and detailed reports are available through your partner manager." 
       },
       { 
+                question: "Is there a minimum number of merchants I need to refer?", 
+        answer: "No — there’s no minimum requirement. You can start earning from your very first introduced merchant and scale your network at your own pace." 
+      },
+      { 
         question: "Is there a limit to how much I can earn?", 
         answer: "No — your earnings grow with your network. The more your merchants process, the more you earn. There are no caps or restrictions." 
       },
