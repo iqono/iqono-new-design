@@ -19,8 +19,8 @@ const Home = () => {
               </p>
               <div className='flex gap-[30px] flex-col md:flex-row'>
                 <Button variant="primary" className='w-full md:w-auto'>Get Started</Button>
-                <Link to="/company/about">
-                  <Button variant="outline" className='w-full md:w-auto'>About us</Button>
+                <Link to="/partners/referral">
+                  <Button variant="outline" className='w-full md:w-auto'>Rev-Share Program</Button>
                 </Link>
               </div>
             </div>
