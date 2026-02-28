@@ -1,7 +1,7 @@
 import React from 'react';
 import Button from './Button';
 import { Link } from 'react-router-dom';
-import { screen } from '@testing-library/dom';
+// import { screen } from '@testing-library/dom';
 
 const Home = () => {
   return (
@@ -26,7 +26,7 @@ const Home = () => {
             </div>
           </div>
           <div className='flex justify-center md:justify-end' data-aos="fade-left" data-aos-delay="200">
-            <img className='object-cover w-full md:w-2/3' src="/Group1707480780.png" />
+            <img className='object-cover w-full md:w-2/3' src="/Group1707480780.png" alt=''/>
           </div>
         </div>
       </div>
@@ -50,7 +50,7 @@ const Home = () => {
           </div>
           <div className='mt-20 flex flex-col gap-10'>
                 <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
-              <img src='/payment2.png' />
+              <img src='/payment2.png' alt=''/>
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>01</p>
                 <p className='text-5xl leading-[1.1] text-white'>Card Acquiring</p>
@@ -61,7 +61,7 @@ const Home = () => {
               </div>
             </div>
             <div className="p-4 md:h-[400px] bg-[url('/public/bg-1.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="100">
-              <img src='/payment1.png' />
+              <img src='/payment1.png' alt=''/>
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>02</p>
                 <p className='text-5xl leading-[1.1] text-white'>Global Payouts</p>
@@ -73,8 +73,8 @@ const Home = () => {
             </div>
             <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
               <div className='relative'>
-                <img src='/apms/1.png' className='' />
-                <img src='/apms/2.png' className='absolute w-[50%] top-[32%] left-[15%]' />
+                <img src='/apms/1.png' className='' alt=''/>
+                <img src='/apms/2.png' className='absolute w-[50%] top-[32%] left-[15%]' alt=''/>
               </div>
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>03</p>
@@ -87,8 +87,8 @@ const Home = () => {
             </div>
             <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
               <div className='relative'>
-                <img src='/open-banking/2.png' className='' />
-                <img src='/open-banking/1.png' className='absolute w-[60%] top-[32%] left-[15%]' />
+                <img src='/open-banking/2.png' className='' alt=''/>
+                <img src='/open-banking/1.png' className='absolute w-[60%] top-[32%] left-[15%]' alt=''/>
               </div>
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>04</p>
@@ -101,8 +101,8 @@ const Home = () => {
             </div>
             <div className="p-4 md:h-[400px] bg-[url('/public/bg-2.png')] bg-cover bg-no-repeat rounded-3xl flex flex-col-reverse md:grid md:grid-cols-2 items-center content-center" data-aos="fade-up" data-aos-delay="200">
               <div className='relative'>
-                <img src='/payment-gateway/2.png' className='ml-[5%] w-3/4' />
-                <img src='/payment-gateway/1.png' className='absolute w-3/4 top-[26%] left-[4%]' />
+                <img src='/payment-gateway/2.png' className='ml-[5%] w-3/4' alt=''/>
+                <img src='/payment-gateway/1.png' className='absolute w-3/4 top-[26%] left-[4%]' alt=''/>
               </div>
               <div className='flex flex-col items-start gap-10 w-5/6'>
                 <p className='uppercase text-xl leading-[1.1] text-[#423ADC]'>05</p>
@@ -238,14 +238,14 @@ const Home = () => {
               <p className='text-base leading-[1.1] text-white mt-10 opacity-80'>
                 Building Success — Step by Step
               </p>
-              <img src='/get-started.png' className='w-[80%]' />
+              <img src='/get-started.png' className='w-[80%]' alt=''/>
             </div>
             <div className='max-w-[705px] flex-1' data-aos="fade-left" data-aos-delay="200">
               <div className='flex flex-col gap-10'>
                 <div className='flex flex-col gap-5'>
                   <div className='h-[1px] bg-white' />
                   <div className='flex gap-[30px] items-start'>
-                    <img className='w-[30px] h-[30px]' src='/union1.png' />
+                    <img className='w-[30px] h-[30px]' src='/union1.png' alt=''/>
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-white text-2xl leading-[1.1]'>
                         Begin Onboarding Process
@@ -259,7 +259,7 @@ const Home = () => {
                 <div className='flex flex-col gap-5'>
                   <div className='h-[1px] bg-white' />
                   <div className='flex gap-[30px] items-start'>
-                    <img className='w-[30px] h-[30px]' src='/union2.png' />
+                    <img className='w-[30px] h-[30px]' src='/union2.png' alt=''/>
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-white text-2xl leading-[1.1]'>
                         API Integration
@@ -273,7 +273,7 @@ const Home = () => {
                 <div className='flex flex-col gap-5'>
                   <div className='h-[1px] bg-white' />
                   <div className='flex gap-[30px] items-start'>
-                    <img className='w-[30px] h-[30px]' src='/union3.png' />
+                    <img className='w-[30px] h-[30px]' src='/union3.png' alt=''/>
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-white text-2xl leading-[1.1]'>
                         Start Processing Payments Globally
@@ -299,7 +299,7 @@ const Home = () => {
               <Button variant="primary">get started</Button>
             </div>
             <div>
-              <img src='/Photoroom3.png' className='' />
+              <img src='/Photoroom3.png' className='' alt=''/>
             </div>
           </div>
         </div>

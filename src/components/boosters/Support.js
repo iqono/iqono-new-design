@@ -1,5 +1,5 @@
-import React from 'react';
-import Button from '../Button';
+// import React from 'react';
+// import Button from '../Button';
 import PromoSection from '../PromoSection';
 import FAQ from '../FAQ';
 import { Link } from 'react-router-dom';
@@ -32,7 +32,7 @@ function Support() {
               </div>
             </div>
             <div className='w-full md:w-1/2 mt-10 md:mt-0' data-aos="fade-left" data-aos-delay="200">
-              <img src='/booster-bg6.png' />
+              <img src='/booster-bg6.png' alt=''/>
             </div>
           </div>
         </div>
@@ -40,7 +40,7 @@ function Support() {
       <div className='bg-[#F5F4F9]'>
         <div className='grid md:grid-cols-2 items-center justify-between'>
           <div className='flex' data-aos="fade-right" data-aos-delay="100">
-            <img className='object-cover md:w-2/3' src="/booster6.png" />
+            <img className='object-cover md:w-2/3' src="/booster6.png" alt=''/>
           </div>
           <div className='w-full z-10 max-w-full px-4 md:max-w-[384px] lg:max-w-[512px] xl:max-w-[640px] 2xl:max-w-[768px] md:pl-4' data-aos="fade-left" data-aos-delay="200">
             <p className='text-[#111021] text-5xl leading-[1.1] mb-10'>

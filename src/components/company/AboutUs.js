@@ -17,14 +17,14 @@ function AboutUs() {
             </div>
           </div>
           <div className='flex justify-end' data-aos="fade-left" data-aos-delay="200">
-            <img className='object-cover md:w-2/3' src="/Group1707480748.png" />
+            <img className='object-cover md:w-2/3' src="/Group1707480748.png" alt=''/>
           </div>
         </div>
       </div>
 
       <div className='grid md:grid-cols-2 items-center justify-between md:mt-[calc(350px-40%)]'>
         <div className='hidden md:flex mt-10' data-aos="fade-right" data-aos-delay="100">
-          <img className='object-cover' src="/Group1707480746.png" />
+          <img className='object-cover' src="/Group1707480746.png" alt=''/>
         </div>
         <div className='w-full z-10 max-w-full px-4 md:max-w-[384px] lg:max-w-[512px] xl:max-w-[640px] 2xl:max-w-[768px] md:pl-4' data-aos="fade-left" data-aos-delay="200">
           <p className='text-white text-5xl leading-[1.1] mb-10'>
@@ -87,14 +87,14 @@ function AboutUs() {
               <p className='text-base leading-[1.1] text-white mt-10 opacity-80'>
                 Building Success — Step by Step
               </p>
-              <img src='/get-started.png' className='w-[80%]' />
+              <img src='/get-started.png' className='w-[80%]' alt=''/>
             </div>
             <div className='max-w-[705px] w-full md:w-1/2'>
               <div className='flex flex-col gap-10' data-aos="fade-up" data-aos-delay="200">
                 <div className='flex flex-col gap-5'>
                   <div className='h-[1px] bg-white' />
                   <div className='flex gap-[30px] items-start'>
-                    <img className='w-[30px] h-[30px]' src='/union1.png' />
+                    <img className='w-[30px] h-[30px]' src='/union1.png' alt=''/>
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-white text-2xl leading-[1.1]'>
                         Begin Onboarding Process
@@ -108,7 +108,7 @@ function AboutUs() {
                 <div className='flex flex-col gap-5'>
                   <div className='h-[1px] bg-white' />
                   <div className='flex gap-[30px] items-start'>
-                    <img className='w-[30px] h-[30px]' src='/union2.png' />
+                    <img className='w-[30px] h-[30px]' src='/union2.png' alt=''/>
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-white text-2xl leading-[1.1]'>
                         API Integration
@@ -122,7 +122,7 @@ function AboutUs() {
                 <div className='flex flex-col gap-5'>
                   <div className='h-[1px] bg-white' />
                   <div className='flex gap-[30px] items-start'>
-                    <img className='w-[30px] h-[30px]' src='/union3.png' />
+                    <img className='w-[30px] h-[30px]' src='/union3.png' alt=''/>
                     <div className='flex flex-col gap-[30px]'>
                       <p className='text-white text-2xl leading-[1.1]'>
                         Start Processing Payments Globally
@@ -147,7 +147,7 @@ function AboutUs() {
               <Button variant="primary">get started</Button>
             </div>
             <div className='w-full md:w-1/2 mt-10 md:mt-0'>
-              <img src='/Photoroom5.png' className='' />
+              <img src='/Photoroom5.png' className='' alt=''/>
             </div>
           </div>
         </div>

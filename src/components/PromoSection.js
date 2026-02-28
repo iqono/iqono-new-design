@@ -13,14 +13,14 @@ function PromoSection() {
             <p className='text-base leading-[1.1] text-white mt-10 opacity-80'>
               Building Success — Step by Step
             </p>
-            <img src='/get-started.png' className='w-[80%]' />
+            <img src='/get-started.png' className='w-[80%]' alt=''/>
           </div>
           <div className='max-w-[705px] flex-1'>
             <div className='flex flex-col gap-10'>
               <div className='flex flex-col gap-5'>
                 <div className='h-[1px] bg-white' />
                 <div className='flex gap-[30px] items-start'>
-                  <img className='w-[30px] h-[30px]' src='/union1.png' />
+                  <img className='w-[30px] h-[30px]' src='/union1.png' alt=''/>
                   <div className='flex flex-col gap-[30px]'>
                     <p className='text-white text-2xl leading-[1.1]'>
                       Begin Onboarding Process
@@ -34,7 +34,7 @@ function PromoSection() {
               <div className='flex flex-col gap-5'>
                 <div className='h-[1px] bg-white' />
                 <div className='flex gap-[30px] items-start'>
-                  <img className='w-[30px] h-[30px]' src='/union2.png' />
+                  <img className='w-[30px] h-[30px]' src='/union2.png' alt=''/>
                   <div className='flex flex-col gap-[30px]'>
                     <p className='text-white text-2xl leading-[1.1]'>
                       API Integration
@@ -48,7 +48,7 @@ function PromoSection() {
               <div className='flex flex-col gap-5'>
                 <div className='h-[1px] bg-white' />
                 <div className='flex gap-[30px] items-start'>
-                  <img className='w-[30px] h-[30px]' src='/union3.png' />
+                  <img className='w-[30px] h-[30px]' src='/union3.png' alt=''/>
                   <div className='flex flex-col gap-[30px]'>
                     <p className='text-white text-2xl leading-[1.1]'>
                       Start Processing Payments Globally
@@ -73,7 +73,7 @@ function PromoSection() {
             <Button variant="primary">get started</Button>
           </div>
           <div>
-            <img src='/Photoroom4.png' className='' />
+            <img src='/Photoroom4.png' className='' alt=''/>
           </div>
         </div>
       </div>

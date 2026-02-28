@@ -1,7 +1,7 @@
-import { ArrowUpRightIcon } from '@heroicons/react/24/solid';
-import React from 'react';
+// import { ArrowUpRightIcon } from '@heroicons/react/24/solid';
+// import React from 'react';
 import Button from '../Button';
-import { Link } from 'react-router-dom';
+// import { Link } from 'react-router-dom';
 
 function Blog() {
   return (
@@ -123,7 +123,7 @@ function Blog() {
             <Button variant="primary">get started</Button>
           </div>
           <div className='w-full md:w-1/2' data-aos="fade-left" data-aos-delay="300">
-            <img src='/Photoroom6.png' className='' />
+            <img src='/Photoroom6.png' className='' alt=''/>
           </div>
         </div>
       </div>

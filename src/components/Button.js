@@ -57,28 +57,28 @@ const Button = ({ children, onClick, className = '', variant = 'primary' }) => {
     </button>
   );
 
-  return (
-    <button
-      className={`${baseStyle} ${variants[variant]} ${className}`}
-      onClick={onClick}
-    >
-      {children}
-      {
-        variant === 'primary' ? (
-          <div className='flex w-4 h-4'>
-            <div className='flex flex-col w-2'>
-              <div className='w-2 h-2 bg-white' />
-            </div>
-            <div className='flex flex-col justify-end w-2'>
-              <div className='w-2 h-2 bg-white' />
-            </div>
-          </div>
-        ) : variant === 'outline' ? (
-          <ArrowUpRightIcon className='size-4 text-[#423ADC]' />
-        ) : null
-      }
-    </button>
-  );
+  // return (
+  //   <button
+  //     className={`${baseStyle} ${variants[variant]} ${className}`}
+  //     onClick={onClick}
+  //   >
+  //     {children}
+  //     {
+  //       variant === 'primary' ? (
+  //         <div className='flex w-4 h-4'>
+  //           <div className='flex flex-col w-2'>
+  //             <div className='w-2 h-2 bg-white' />
+  //           </div>
+  //           <div className='flex flex-col justify-end w-2'>
+  //             <div className='w-2 h-2 bg-white' />
+  //           </div>
+  //         </div>
+  //       ) : variant === 'outline' ? (
+  //         <ArrowUpRightIcon className='size-4 text-[#423ADC]' />
+  //       ) : null
+  //     }
+  //   </button>
+  // );
 };
 
 export default Button;
